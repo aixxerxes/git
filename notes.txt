@@ -1,0 +1,13 @@
+初始化
+命令：git init
+
+自报家门
+命令：
+    配置用户名：git config --global user.name "username"
+    配置邮箱：git config --global user.email "username@email.com"
+
+放入仓库
+放在仓库门口
+    命令：git add ./file.txt
+把东西从门口放到仓库里
+    命令：git commit -m "这是对这次添加的东西的说明"
